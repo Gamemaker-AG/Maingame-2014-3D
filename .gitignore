@@ -1,0 +1,9 @@
+/Library
+/Temp
+/Local
+/UnityVS.*
+/obj
+/*.sln
+/Build
+/ProjectSettings/EditorBuildSettings.asset
+/*.csproj
