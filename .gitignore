@@ -1,13 +1,15 @@
 /Library
 /Temp
 /Local
-/UnityVS.*
+**/UnityVS.*
 /obj
 /*.sln
 /Build
 /ProjectSettings/EditorBuildSettings.asset
 /*.csproj
-/*.blend1
-/*.blend1.meta
-/*.blend2
-/*.blend2.meta
+
+#ignoring backup-saves of blend-files
+**/*.blend1
+**/*.blend1.meta
+**/*.blend2
+**/*.blend2.meta
